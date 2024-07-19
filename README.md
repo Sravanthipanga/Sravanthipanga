@@ -1,7 +1,7 @@
 ### Hi there 👋
 Sravanthipanga
 I’m currently working on Python
-- 🌱 I’m currently learning Python Programming
+- 🌱 I have completed  Python Programming
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with Intership
 - 💬 Ask me about python,ML
