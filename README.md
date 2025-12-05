@@ -1,6 +1,6 @@
 ### Hi there 👋
 Sravanthipanga
-Objective: Full Stack Developer with 4+ years of experience building cloud-native, event-driven microservices and scalable backend systems using React, Angulat/TypeScript, Node.js, Java, Python, C++, ASP.NET, Spring Boot and AWS. Skilled in Kafka-based data streaming, DynamoDB (DAX), Redis, Avro/JSON, and performance optimization with proven strengths in cloud computing, CI/CD automation, and observability using Datadog, Prometheus, and Splunk. Recognized for leadership, mentorship, teamwork, communication, critical thinking, and adaptability in delivering high-performance, resilient architectures that align with business growth and product roadmaps.
+Objective: Full Stack Developer with 4+ years of experience building cloud-native, event-driven microservices and scalable backend systems using React, Angulat/TypeScript, Node.js, Java, Python, C++, ASP.NET, Spring Boot and AWS. Skilled in Kafka-based data streaming, DB2 on OS/400, Avro/JSON, and performance optimization with proven strengths in cloud computing, CI/CD automation, and observability using Datadog, Prometheus, and Splunk. Recognized for leadership, mentorship, teamwork, communication, critical thinking, and adaptability in delivering high-performance, resilient architectures that align with business growth and product roadmaps.
 
 I’m currently working on Java and Python
 - 🌱 I have completed  my master's & bachelors in computer science
