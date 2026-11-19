@@ -1,19 +1,30 @@
-### Hi there 👋
-Sravanthipanga
-Objective: Full Stack Developer with 6+ years of experience building cloud-native, event-driven microservices and scalable backend systems using React, Angulat/TypeScript, Node.js, Java, Python, C#, ASP.NET, Spring Boot and AWS. Skilled in Kafka-based data streaming, DB2 on OS/400, Avro/JSON, and performance optimization with proven strengths in cloud computing, CI/CD automation, and observability using Datadog, Prometheus, and Splunk. Recognized for leadership, mentorship, teamwork, communication, critical thinking, and adaptability in delivering high-performance, resilient architectures that align with business growth and product roadmaps.
+# Hi, I'm Sravanthi Panga 👋
 
-I’m currently working on Java and Python
-- 🌱 I have completed  my master's & bachelors in computer science
-- 👯 I’m looking to collaborate on Projects
-- 🤔 I’m looking for help with Fulltime
-- 💬 Ask me about python,ML,AI, Java,TypeScript, JavaScript (ES6+), Node.js, Java, C#, ASP.NET Spring Boot, Hibernate, Python, C, C#
-AWS (EKS, EC2, S3, IAM, DynamoDB, DAX, Lambda basics), SQL Server, MongoDB, DynamoDB (data modeling, streams, TTL, secondary indexes), Redis caching / Elasticache patterns, in-memory caching, key-value stores
-Git, GitLab CI/CD, Azure DevOps, Jenkins, Docker, Kubernetes, Helm, basic IaC concepts (CloudFormation / Terraform awareness), autoscaling strategies, API gateways
-Splunk, Postman, Instana, Prometheus, Datadog, Helm, Istio, Swagger, Angular, TypeScript (front-end), HTML5, CSS3, responsive UI, SPA patterns
-JUnit, Mockito, Karma, Jasmine, TDD, scenario-based testing, error resolution, software security (JWT, OAuth 2.0, RBAC)
-Datadog, Prometheus, Splunk, Instana, logging and
-structured logging
-, metrics, tracing, performance profiling & tuning (CPU, memory, I/O, network) 
-- 📫 How to reach me: Pangasravanthi0599@gmail.com
-- 😄 Pronouns: You cangive one
+**Software Engineer** at Bamboo Health · 6+ years building healthcare technology and distributed systems · Lisle, Illinois
 
+I build production systems with Java/Spring Boot, Python, TypeScript/React, and Go — and, lately, multi-agent AI systems with LangGraph, MCP, and RAG.
+
+🌐 [Portfolio](https://portfolio-sravanthi.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/sravanthi-panga-174382204/) · 📄 Résumé — available on my portfolio site
+
+## Featured projects
+
+| Project | What it is |
+|---|---|
+| [BastionBank](https://github.com/Sravanthipanga/bastionbank) | Production multi-agent banking platform — LangGraph coordinator + sub-agents over MCP servers, JWT auth + RBAC policy gate, PII vault, prompt-injection guardrails, human-in-the-loop approvals · [Live demo](https://bastionbank.onrender.com) |
+| [IssuePilot](https://github.com/Sravanthipanga/issuepilot) | LangGraph multi-agent orchestration: takes a GitHub issue and opens a tested fix PR |
+| [AskFHIR](https://github.com/Sravanthipanga/analyzing-healthcare-fhir-docs) | Production RAG over FHIR R4 docs — hybrid retrieval, cross-encoder reranking, citation enforcement, CI-gated evaluation |
+| [Groundhog Guard](https://github.com/Sravanthipanga/groundhog-guard) | Idempotent event processing in Go + Kafka — an exactly-once payment-ledger pipeline |
+| [Crobat](https://github.com/Sravanthipanga/crobat) | Cron-as-a-service in Go — distributed job scheduler where the MySQL jobs table is the queue |
+| [DiffSentry](https://github.com/Sravanthipanga/diffsentry) | AI-powered code review CLI — deterministic static engine + LLM adapters, eval-gated in CI |
+
+## Tech stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+
+## Currently
+
+- 💼 Software Engineer at **Bamboo Health** — healthcare claims and clearinghouse platforms (Java, React, PostgreSQL, Kotlin)
+- 🏥 Domain: healthcare IT — HL7/FHIR integrations and claims processing
+- 🤖 Also building: [Holiday Planner AI with LangGraph](https://github.com/Sravanthipanga/Holiday-Planner-AI-with-LangGraph) · [Live demo](https://holiday-planner-ai-8jfa.onrender.com)
+- 🎓 I hold a Master's and Bachelor's in Computer Science
+- 👯 I'm looking to collaborate on projects
