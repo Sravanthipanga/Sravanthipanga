@@ -4,7 +4,7 @@
 
 I build production systems with Java/Spring Boot, Python, TypeScript/React, and Go — and, lately, multi-agent AI systems with LangGraph, MCP, and RAG.
 
-🌐 [Portfolio](https://portfolio-sravanthi.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/sravanthi-panga-174382204/) · 📄 Résumé — available on my portfolio site
+🌐 [Portfolio](https://portfolio-sravanthi.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/sravanthi-panga-174382204/) · 📄 [Résumé (PDF)](https://portfolio-sravanthi.vercel.app/Sravanthi_Panga_Resume.pdf)
 
 ## Featured projects
 
